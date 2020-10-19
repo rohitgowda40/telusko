@@ -2,5 +2,10 @@ welcome
 kheer 
 pasta
 chicken fry
+
+beans 
+pizza
 Thankyou
+
+finished
 final
